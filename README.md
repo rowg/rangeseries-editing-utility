@@ -1,2 +1,2 @@
 # rangeseries-editing-utility
-A utility to help with editing rangeseries files
+A utility to help edit rangeseries files
